@@ -1,0 +1,107 @@
+ideas = {
+
+	country = {
+		france_tech_share = {
+			picture = france_tech
+			
+			avalible{
+			}
+			
+			allowed = {
+				original_tag = ENG
+				focus = france_tech
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				research_speed_factor = 0.05
+			}
+		}
+		mill_part_defund = {
+			picture = france_tech
+			
+			avalible{
+			}
+			
+			allowed = {
+				original_tag = ENG
+				focus = mill_part_defund
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				production_speed_arms_factory_factor = -0.2
+				production_speed_industrial_complex_factor = 0.15
+				consumer_goods_factor = -0.05
+				production_speed_dockyard_factor = -0.2
+				production_speed_synthetic_refinery_factor = 0.15
+				production_speed_fuel_silo_factor = 0.15
+			}
+		}
+		finish_home = {
+			picture = prod
+			
+			avalible{
+			}
+			
+			allowed = {
+				original_tag = ENG
+				focus = fin_home
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				production_speed_arms_factory_factor = 0.1
+				production_speed_dockyard_factor = 0.1
+				production_speed_industrial_complex_factor = 0.1
+			}
+		}
+		new_republic = {
+			picture = repub
+			
+			avalible{
+			}
+			
+			allowed = {
+				original_tag = ENG
+				focus = form_rep
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				stability_weekly = -0.01
+				political_advisor_cost_factor = 1
+				political_power_cost = 0.5
+				political_power_gain = -0.5
+			}
+		}
+		trader = {
+			picture = consume
+			
+			avalible{
+			}
+			
+			allowed = {
+				original_tag = ENG
+				focus = final_trade_prep
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			modifier = {
+				trade_opinion_factor = 0.2
+				consumer_goods_factor = -0.05
+			}
+		}
+	}
+}
+
