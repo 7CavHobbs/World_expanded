@@ -1,0 +1,63 @@
+﻿l_english:
+ english_politics:0 "Open up English politics"
+ english_politics_desc:0 "English politics have been left dormant for some time, we must address the house of commons with our political plans for the future"
+ democ_path:0 "Trust in tradition"
+ 
+ english_forign:0 "Work on forign affairs"
+ english_forign_desc:0 "We must make or break relations with other forign nations to better server the United Kingdom"
+ eu_relations:0 "Focusing on the continent"
+ eu_relations_desc:0 "Our work should be focused primarily on our home continent and the countries within it"
+ france_good:0 "Work with France"
+ 
+ framce_bad:0 "Work against France"
+ 
+ france_train:0 "Send the BEF to train"
+ 
+ france_tech:0 "Send in the scientists"
+ 
+ france_war_prep:0 "Prepare the defences of France"
+ 
+ france_build_mil:0 "Assist the arms factories"
+ 
+ france_imitate:0 "Take trade advice from the French"
+ 
+ france_ally:0 "Invite the French"
+ 
+ industry_start:0 "Start industry revitalisation"
+ 
+ start_scot:0 "Development in Scotland"
+ 
+ start_eng:0 "Development in England"
+ 
+ start_wales:0 "Development in Wales"
+ 
+ dev_scot:0 "Develop natural resources in Scotland"
+ 
+ dev_eng:0 "Develop natural resources in England"
+ 
+ dev_wales:0"Develop natural resources in Wales"
+ 
+ drill_scot:0 "Drill for oil in Scotland"
+ 
+ drill_eng:0 "Drill for oil in England"
+ 
+ agre_scot:0 "Work on Scottish agriculture"
+ 
+ agre_eng:0 "Work on English agriculture"
+ 
+ agre_wales:0 "Work on Welsh agriculture"
+ 
+ farm_scot:0 "Fund Scottish Farmers"
+ 
+ farm_eng:0 "Fund English Farmers"
+ 
+ fin_scot:0 "Complete Development in Scotland"
+ 
+ fin_eng:0 "Complete Development in England"
+ 
+ fin_wales:0 "Complete Development in Wales"
+ 
+ fin_home:0 "Complete homeland development"
+ 
+ continue_dem:0 "Trust in the House of Commons"
+ continue_dem_desc:0 "The House of Commons has held up the country since 1801 we can trust it to hold up our nation for now"
