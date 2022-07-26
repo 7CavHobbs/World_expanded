@@ -1,0 +1,19 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_france_tech"
+		texturefile = "gfx/interface/ideas/uk_france_tech.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_prod"
+		texturefile = "gfx/interface/ideas/prod.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_repub"
+		texturefile = "gfx/interface/ideas/repub.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_consume"
+		texturefile = "gfx/interface/ideas/generic_goods_red_bonus.dds"
+	}
+}
